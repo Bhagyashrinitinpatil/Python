@@ -29,3 +29,4 @@
 20.Click on Pay button and click on ok button on confirmation dialouge box.
 21.Click on Logout button.
 22.Click on About tab.
+23.You ca view screenshots of project in screenshot.pdf file.
